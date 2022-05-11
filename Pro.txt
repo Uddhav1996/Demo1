@@ -1,0 +1,12 @@
+public class Counting{
+public static void main(String[]args){
+String str="Rahul is a good player and he is so punctual";
+for(i=0;i<str.length()-1;i++){
+split()
+
+    String[] stringArray = inputString.split("\\s+"); // splitting the string using space/spaces
+ 
+    return stringArray.length; 
+System.out.println(""Rahul is a good player and he is so punctual"+str.length());
+}
+} 
